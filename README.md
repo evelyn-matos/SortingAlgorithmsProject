@@ -62,8 +62,4 @@ Os tempos de execução foram comparados e tabulados para os diferentes tipos de
 * Qual algoritmo é mais eficiente com dados ordenados de forma decrescente.
 * Qual algoritmo é mais estável em relação à variação do tempo de processamento, independentemente de como os dados estão organizados.
 
-### Como Executar
 
-Para executar o projeto, siga os seguintes passos:
-
-Compilar o código:
